@@ -77,8 +77,8 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚 🌻'
-global.author = '𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖'
+global.packname = '𝗙𝗮𝗻𝘁𝗮𝘀𝗺𝗶𝗻 𝗕𝗼𝘁 🌻'
+global.author = ''
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
@@ -116,8 +116,8 @@ global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 CO
 global.paypal = 'https://paypal.me/FantasminBot'
 global.asistencia = 'Wa.me/19894000000' //Dudas? escríbeme...
 
-global.wm = '𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚 🌻 : 𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖'
-global.igfg = '𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚'
+global.wm = '𝗙𝗮𝗻𝘁𝗮𝘀𝗺𝗶𝗻 𝗕𝗼𝘁 🌻 : 𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖'
+global.igfg = '𝗙𝗮𝗻𝘁𝗮𝘀𝗺𝗶𝗻 𝗕𝗼𝘁'
 global.wait = lenguajeGB['smsMeWait']()
 global.wait2 = lenguajeGB.smsWait()
 global.nomorown = owner[0][0]
