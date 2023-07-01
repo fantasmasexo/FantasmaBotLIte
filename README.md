@@ -13,11 +13,9 @@
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
 <a href="">
-<img src="">
 </a>
 </a>
 <a href="">
-<img src="">
 </a>
 </div>
 
