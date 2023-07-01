@@ -5,12 +5,6 @@
 <a href="https://github.com/GataNina-Li/GataBot-MD"><img title="GataBot-MD" src="https://img.shields.io/badge/🌸 ESTÁ ES UNA VERSIÓN SIMPLIFICADA DE GataBotMD 🌸 -red?colorA=%233CCED8&colorB=%233CCED8&style=for-the-badge"></a>
 </p>
 
-<div align="">
-<a href="">
-<img src="" alt="">
-</a>
-<a href="">
-<a href="">
 
 <a href="https://instagram.com/fantasmajjkk">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
