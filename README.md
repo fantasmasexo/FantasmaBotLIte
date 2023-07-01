@@ -138,12 +138,12 @@ Set-ExecutionPolicy RemoteSigned
 > Aparecerá un mensaje de advertencia preguntando si deseas cambiar la Política de ejecución. Confirma con "Y" y presiona Enter. Luego ya puede volver a ejecutar el comando `yarn`
 
 ### 💠 [`IDIOMAS DISPONIBLES PARA FANTASMINBOTLITE`](https://github.com/GataNina-Li/GataBotLite-MD/blob/f406e0f1bba1ca7cd6ee4ef3208e156135a24dce/config.js#L31) 
-#### ✨ Español  [`Editar Idioma`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/espanol.js)
-#### ✨ Inglés (English) [`Edit Language`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/ingles.js)
-#### ✨ Portugués (Português) [`Idioma de Edição`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/portugues.js)
+#### ✨ Español  [`Editar Idioma`](https://github.com/fantasmasexo/FantasmaBotLite/blob/main/lib/idiomas/espanol.js)
+#### ✨ Inglés (English) [`Edit Language`](https://github.com/fantasmasexo/FantasmaBotLite/blob/main/lib/idiomas/ingles.js)
+#### ✨ Portugués (Português) [`Idioma de Edição`](https://github.com/fantasmasexo/FantasmaBotLite/blob/main/lib/idiomas/portugues.js)
 #### ✨ Indonesio (Bahasa Indonesia) [`Mengedit Bahasa`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/indonesio.js) 
 #### ✨ Árabe (عرب) [`عدل اللغة`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/arabe.js)
 ----
 
 ### 🌟 CREADOR
-[![Fantasma]([[[https://i.imgur.com/YdWw6qd.jpg]()]())](https://github.com/fantasmasexo) 
+[![Fantasma]([[[https://i.imgur.com/YdWw6qd.jpg(https://github.com/fantasmasexo) 
