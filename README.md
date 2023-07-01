@@ -65,8 +65,8 @@ termux-setup-storage
 apt update
 apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
-git clone https://github.com/GataNina-Li/GataBotLite-MD 
-cd GataBotLite-MD
+git clone https://github.com/fantasmasexo/FantasmaBotLitw 
+cd FantasmaBotLite
 yarn install
 npm install
 npm start
@@ -75,7 +75,7 @@ npm start
 ### 🍁 TERMUX 24/7 🍁 
 > Comandos para realizar una ejecución 24/7
 - INICIAR
-> Use estos comandos dentro de la carpeta GataBotLite-MD
+> Use estos comandos dentro de la carpeta FantasmaBotLite
 ```bash
 termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
 ```
@@ -85,12 +85,12 @@ termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 pm2 stop all && pm2 unstartup
 ```
 - REANUDAR 
-> Reanudar los procesos, usar dentro de la carpeta GataBotLite-MD 
+> Reanudar los procesos, usar dentro de la carpeta FantasmaBotLite
 ```bash
 pm2 start index.js 
 ```
 - VISUALIZAR EL PROCESO
-> Usar dentro de la carpeta GataBotLite-MD para ver en tiempo real
+> Usar dentro de la carpeta FantasmaBotLite para ver en tiempo real
 ```bash
 pm2 logs 
 ```
@@ -116,8 +116,8 @@ npm install -g ffmpeg imagemagick git yarn && npm i && node --no-warnings index.
 * Descargar e instala FFmpeg [`Aquí`](https://ffmpeg.org/download.html) (**No olvide agregar FFmpeg a la variable de entorno PATH**)
 * Descargar e instala ImageMagick [`Aquí`](https://imagemagick.org/script/download.php)
 ```bash
-git clone https://github.com/GataNina-Li/GataBotLite-MD
-cd GataBotLite-MD
+git clone https://github.com/fantasmasexo/FantasmaBotLite
+cd FantasmaBotLite
 npm install -g yarn
 yarn
 npm install 
@@ -148,7 +148,7 @@ Set-ExecutionPolicy RemoteSigned
 ```
 > Aparecerá un mensaje de advertencia preguntando si deseas cambiar la Política de ejecución. Confirma con "Y" y presiona Enter. Luego ya puede volver a ejecutar el comando `yarn`
 
-### 💠 [`IDIOMAS DISPONIBLES PARA GATABOTLITE`](https://github.com/GataNina-Li/GataBotLite-MD/blob/f406e0f1bba1ca7cd6ee4ef3208e156135a24dce/config.js#L31) 
+### 💠 [`IDIOMAS DISPONIBLES PARA FANTASMINBOTLITE`](https://github.com/GataNina-Li/GataBotLite-MD/blob/f406e0f1bba1ca7cd6ee4ef3208e156135a24dce/config.js#L31) 
 #### ✨ Español  [`Editar Idioma`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/espanol.js)
 #### ✨ Inglés (English) [`Edit Language`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/ingles.js)
 #### ✨ Portugués (Português) [`Idioma de Edição`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/portugues.js)
