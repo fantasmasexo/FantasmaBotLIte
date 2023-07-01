@@ -12,8 +12,8 @@
 <a href="">
 <img src="" alt="">
 </a>
-<a href="https://www.youtube.com/@gatadios">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+<a href="">
+<img src="" alt="">
 </a>
 <a href="https://instagram.com/fantasmajjkk">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
