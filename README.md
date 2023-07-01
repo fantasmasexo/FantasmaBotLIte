@@ -146,4 +146,4 @@ Set-ExecutionPolicy RemoteSigned
 ----
 
 ### 🌟 CREADOR
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/fantasmasexo) 
+[![Fantasma]([https://github.com/GataNina-Li.png?size=100](https://i.imgur.com/YdWw6qd.jpg))](https://github.com/fantasmasexo) 
