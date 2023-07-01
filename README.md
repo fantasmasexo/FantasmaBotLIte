@@ -21,12 +21,12 @@
 <a href="https://paypal.me/FantasminBot">
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
-<a href="https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3">
-<img src="https://img.shields.io/badge/GataBot Update Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<a href="">
+<img src="">
 </a>
 </a>
-<a href="https://chat.whatsapp.com/IXZ0aBryB1cHjNxe0VIm76">
-<img src="https://img.shields.io/badge/🐈_GataBot_|_Soporte_⚙️-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<a href="">
+<img src="">
 </a>
 </div>
 
