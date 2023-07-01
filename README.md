@@ -7,7 +7,7 @@
 
 <div align="center">
 <a href="">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<img src="" alt="Gmail">
 </a>
 <a href="https://facebook.com/groups/872989990425789/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
