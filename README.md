@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-<a href="mailto:centergatabot@gmail.com">
+<a href="">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 <a href="https://facebook.com/groups/872989990425789/">
