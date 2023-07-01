@@ -15,10 +15,10 @@
 <a href="https://www.youtube.com/@gatadios">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
-<a href="https://instagram.com/gata_dios">
+<a href="https://instagram.com/fantasmajjkk">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://paypal.me/OficialGD">
+<a href="https://paypal.me/FantasminBot">
 <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
 </a>
 <a href="https://chat.whatsapp.com/DVhu9S9Zr7cBFFl26N61U3">
