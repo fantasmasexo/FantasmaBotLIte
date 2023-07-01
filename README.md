@@ -145,5 +145,5 @@ Set-ExecutionPolicy RemoteSigned
 #### ✨ Árabe (عرب) [`عدل اللغة`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/arabe.js)
 ----
 
-### 🌟 CREADORA 
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
+### 🌟 CREADOR
+[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/fantasmasexo) 
