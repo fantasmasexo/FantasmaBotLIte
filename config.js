@@ -113,7 +113,7 @@ global.nnnttt1 = 'https://chat.whatsapp.com/F63pQpKCWiF2zFXxhYnky' //Grupo 6 COL
 global.nnnttt2 = 'https://chat.whatsapp.com/CcJKHrxGWAAHPiBL07JS' //Grupo 7 COL
 global.nnnttt3 = 'https://chat.whatsapp.com/KLpYFsikgzJ1YQxZrBqO' //Grupo 8 COL
 global.nnnttt4 = 'https://chat.whatsapp.com/J8HOf2T3QYeKu3UN9UBkT6' //Grupo 9 COL
-global.paypal = 'https://paypal.me/fantasmaglobal.paypal'
+global.paypal = 'https://paypal.me/FantasminBot'
 global.asistencia = 'Wa.me/19894000000' //Dudas? escríbeme...
 
 global.wm = '𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚 🌻 : 𝙁𝙖𝙣𝙩𝙖𝙨𝙢𝙖'
