@@ -10,9 +10,7 @@
 <img src="" alt="">
 </a>
 <a href="">
-<img src="" alt="">
 <a href="">
-<img src=""  alt="">
 
 <a href="https://instagram.com/fantasmajjkk">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
