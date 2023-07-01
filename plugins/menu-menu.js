@@ -186,9 +186,9 @@ let menu = `*◈ ${user.registered === true ? user.name : `👉 ${usedPrefix}${l
 *│* ╰∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ ∙ ∙ ∙ ∙
  `.trim()
     
-const vi = ['https://imgur.com/a/UkOZbG3',
-'https://imgur.com/a/UkOZbG3',
-'https://imgur.com/a/UkOZbG3']
+const vi = ['https://telegra.ph/ssewww-07-01',
+'https://telegra.ph/ssewww-07-01',
+'https://telegra.ph/ssewww-07-01']
 
 try {
 await conn.sendMessage(m.chat, { video: { url: vi.getRandom() }, gifPlayback: true, caption: menu, mentions: [m.sender] }, { quoted: fkontak }) 
