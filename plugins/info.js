@@ -16,7 +16,7 @@ frep = { contextInfo: { externalAdReply: {title: wm, body: lenguajeGB.smsCreApoy
 fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
 const isCommand1 = /^(estado|status|estate|state|stado|stats|botstat(us)?)$/i.test(command)  
-const isCommand2 = /^(cuenta(s)?oficiales?|fantasminig|(cuentas|account)s?g?b|(ig)?fantaasmin|(cuentasfantasmin))$/i.test(command)  
+const isCommand2 = /^(cuenta(s)?oficiales?|fantasminig|(cuentas|account)s?f?b|(ig)?fantaasmin|(cuentasfantasmin))$/i.test(command)  
 const isCommand3 = /^(fantasmin(bot)?groups?|grupos(ofc|defantasminbot|gb)|gruposfb|groupsfb|fantasmingroups?|grupos|group(ofc|sofc))$/i.test(command) 
 const isCommand4 = /^(c(ó|o)digo|sc|git|script)$/i.test(command) 
 const isCommand5 = /^(instalar(fantasmin)?bot|proceso(del)?bot|bot(install|proceso)|installbot)$/i.test(command) 
