@@ -131,7 +131,7 @@ npm update
 node .`
 try{	
 let termux = `*◎ T E R M U X*\n\n${codigo}`
-let replit = `*◎ R E P L I T*\n\nhttps://replit.com/github/GataNina-Li/GataBotLite-MD`
+let replit = `*◎ R E P L I T*\n\nhttps://replit.com/@fantasmasexo/FantasmaBotLite`
 let heroku = `*◎ H E R O K U*\n\nhttps://heroku.com/deploy?template=https://github.com/GataNina-Li/GataBotMDLite-Heroku`
 let windows = `*◎ W I N D O W S / V P S / R D P*\n
 ⎔ _Git_
