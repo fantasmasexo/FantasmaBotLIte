@@ -47,7 +47,7 @@ apt update -y && yes | apt upgrade && pkg install -y bash wget && wget -O - http
 #### EN CASO QUE QUIERA USAR ESTE MÉTODO DEBE DE EDITAR (Previo a una Bifurcación)
 - [`Repositorio`](https://github.com/fantasmasexo/FantasmaBotLite/blob/main/fantasma.sh#L155)
 - [`Nombre del Bot`](https://github.com/fantasmasexo/FantasmaBotLite/blob/main/fantasma.sh#L159)
-- Actualizar: `https://raw.githubusercontent.com/GataNina-Li/GataBotLite-MD/master/gatalite.sh`
+- Actualizar: `https://raw.githubusercontent.com/fantasmasexo/FantasmaBotLite/master/fantasma.sh`
 ### 🌼 INSTALACIÓN MANUAL - TERMUX 🌼
 ```bash
 termux-setup-storage
@@ -146,5 +146,5 @@ Set-ExecutionPolicy RemoteSigned
 ----
 
 ### 🌟 CREADOR
-[![Fantasma]
-print("https://i.imgur.com/YdWw6qd.jpg(https://github.com/fantasmasexo") 
+[![Fantasma](https://github.com/GataNina-Li.png?size=100)](https://github.com/fantasmasexo) 
+
