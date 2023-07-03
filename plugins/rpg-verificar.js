@@ -35,7 +35,7 @@ let caption = `${lenguajeGB.smsVerify7()}
 • ${age}
 
 *⎔ ${lenguajeGB.smsVerify9()}*
-• 'ͧͧͧͦꙶͣͤ✓ᚲᴳᴮ'
+• 'ͧͧͧͦꙶͣͤ✓ᚲғв'
 
 *⎔ ${lenguajeGB.smsPerfil5()}*
 • \`\`\`${sn}\`\`\``.trim()
