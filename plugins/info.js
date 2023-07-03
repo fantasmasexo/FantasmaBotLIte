@@ -17,7 +17,7 @@ fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@bro
 
 const isCommand1 = /^(estado|status|estate|state|stado|stats|botstat(us)?)$/i.test(command)  
 const isCommand2 = /^(cuenta(s)?oficiales?|fantasminig|(cuentas|account)s?f?b|(ig)?fantaasmin|(cuentasfantasmin))$/i.test(command)  
-const isCommand3 = /^(fantasmin(bot)?groups?|grupos(ofc|defantasminbot|gb)|gruposfb|groupsfb|fantasmingroups?|grupos|group(ofc|sofc))$/i.test(command) 
+const isCommand3 = /^(fantasmin(bot)?groups?|grupos(ofc|defantasminbot|fb)|gruposfb|groupsfb|fantasmingroups?|grupos|group(ofc|sofc))$/i.test(command) 
 const isCommand4 = /^(c(ó|o)digo|sc|git|script)$/i.test(command) 
 const isCommand5 = /^(instalar(fantasmin)?bot|proceso(del)?bot|bot(install|proceso)|installbot)$/i.test(command) 
 const isCommand6 = /^(owner|creator|propietario|dueño|dueña|propietaria|dueño|creadora|creador)$/i.test(command) 
@@ -72,8 +72,6 @@ let str = `
 *${ig}*\n
 ◎ *YOUTUBE*
 *${yt}*\n
-◎ *FACEBOOK*
-*${fb}*\n
 ${lenguajeGB.smsOfc2()}`.trim() 
 await conn.sendFile(m.chat, media, 'gata.jpg', lenguajeGB.smsOfc1() + '\n\n' + str, fkontak)  
 } catch (e) {
@@ -337,7 +335,7 @@ await m.reply(lenguajeGB.smsReportGB5())
 break
 }}
 
-handler.command = /^(estado|status|estate|state|stado|stats|botstat(us)?|cuenta(s)?oficiales?|gataig|(cuentas|account)s?g?b|(ig)?gata|(cuentasgata))|gata(bot)?groups?|grupos|groupsgb|grupos(ofc|degatabot|gb)|grupogb|gatagroups?|group(ofc|sofc)|c(ó|o)digo|sc|git|script|instalar(gata)?bot|proceso(del)?bot|bot(install|proceso)|installbot|owner|creator|propietario|dueño|dueña|propietaria|dueño|creadora|creador|group(s|list|o(lista)?)|list(a)?(de)?grupo(s)?|grupolista|info(gata|bot)|informaci(ón|on)(gata|bot)|contactos?|contacts?|ping|speed|velocidad|rapidez|velocity|dona(te|si)|donar|apoyar|paypal|donating|aportar|report|request|reporte|bugs|bug|reportowner|reportes|reportar$/i
+handler.command = /^(estado|status|estate|state|stado|stats|botstat(us)?|cuenta(s)?oficiales?|fantasminig|(cuentas|account)s?f?b|(ig)?fantasmin|(cuentasfantasmin))|fantasmin(bot)?groups?|grupos|groupsfb|grupos(ofc|defantasminbot|fb)|grupofb|fantasmingroups?|group(ofc|sofc)|c(ó|o)digo|sc|git|script|instalar(fantasmin)?bot|proceso(del)?bot|bot(install|proceso)|installbot|owner|creator|propietario|dueño|dueña|propietaria|dueño|creadora|creador|group(s|list|o(lista)?)|list(a)?(de)?grupo(s)?|grupolista|info(fantasmin|bot)|informaci(ón|on)(fantasmin|bot)|contactos?|contacts?|ping|speed|velocidad|rapidez|velocity|dona(te|si)|donar|apoyar|paypal|donating|aportar|report|request|reporte|bugs|bug|reportowner|reportes|reportar$/i
 export default handler
 
 function clockString(ms) {
