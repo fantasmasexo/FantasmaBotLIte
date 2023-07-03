@@ -156,7 +156,7 @@ global.img18 = 'https://imgur.com/a/TicuHrx'
 global.img19 = 'https://imgur.com/a/TicuHrx'
 global.img20 = 'https://imgur.com/a/TicuHrx'
 global.img21 = 'https://imgur.com/a/TicuHrx'
-global.img21 = 'https://i.imgur.com/akofqcE.jpeg' //paypal
+global.img21 = 'https://imgur.com/a/TicuHrx' //paypal
 
 global.welgata = [ig, yt2, yt2, ig, md, ig, yt, paypal, yt2, yt2, ig, fb]
 global.redesMenu = [nna, nn, nnn, nnnt, nnntt, nnnttt, nnnttt1, nnnttt2, nnnttt3, nnnttt4, md, ig, paypal, yt, asistencia, fb]
