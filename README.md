@@ -54,7 +54,7 @@ termux-setup-storage
 apt update
 apt upgrade
 pkg install -y git nodejs ffmpeg imagemagick yarn
-git clone https://github.com/fantasmasexo/FantasmaBotLitw 
+git clone https://github.com/fantasmasexo/FantasmaBotLite
 cd FantasmaBotLite
 yarn install
 npm install
