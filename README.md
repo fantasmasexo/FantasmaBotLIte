@@ -146,4 +146,4 @@ Set-ExecutionPolicy RemoteSigned
 ----
 
 ### 🌟 CREADOR 
-[![Fantasma]([![5b545653-d68f-447e-b2ce-758169cdab7d.jpg](https://i.postimg.cc/bvsH5HbP/5b545653-d68f-447e-b2ce-758169cdab7d.jpg)](https://postimg.cc/HJ1ycMBv)](https://github.com/fantasmasexo) 
+[![Fantasma]([![5b545653-d68f-447e-b2ce-758169cdab7d.jpg](https://i.postimg.cc/bvsH5HbP/5b545653-d68f-447e-b2ce-758169cdab7d.jpg)](https://postimg.cc/HJ1ycMBv)])(https://github.com/fantasmasexo))
