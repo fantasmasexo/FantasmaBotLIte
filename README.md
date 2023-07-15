@@ -145,4 +145,3 @@ Set-ExecutionPolicy RemoteSigned
 #### ✨ Árabe (عرب) [`عدل اللغة`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/arabe.js)
 ----
 
-ce-7581thub.com/fantasmasexo')
