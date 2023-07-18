@@ -147,4 +147,4 @@ Set-ExecutionPolicy RemoteSigned
 #### ✨ Indonesio (Bahasa Indonesia) [`Mengedit Bahasa`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/indonesio.js) 
 #### ✨ Árabe (عرب) [`عدل اللغة`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/arabe.js)
 ----
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00FFFF&center=falso&vCenter=falso&lines=𝕱𝖆𝖓𝖙𝖆𝖘𝖒𝖎𝖓-𝕾𝖊𝖝𝖔-𝖉𝖔𝖒𝖎𝖓𝖆𝖆✰✰✰✰✰"> 
