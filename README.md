@@ -1,3 +1,6 @@
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=060BF7&background=88F6FF00&width=435&lines=%F0%9D%90%85%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%93%F0%9D%90%80%F0%9D%90%92%F0%9D%90%8C%F0%9D%90%88%F0%9D%90%8D-%F0%9D%90%81%F0%9D%90%8E%F0%9D%90%93;%F0%9D%95%B1%F0%9D%96%86%F0%9D%96%93%F0%9D%96%99%F0%9D%96%86%F0%9D%96%98%F0%9D%96%92%F0%9D%96%8E%F0%9D%96%93-%F0%9D%95%BE%F0%9D%96%8A%F0%9D%96%9D%F0%9D%96%94%F0%9D%96%94%F0%9D%96%94" alt="Typing SVG" /></a>
+
 <p align="center"> 
 <img src="https://i.imgur.com/YdWw6qd.jpg" alt="FantasminBotLite-MD" width="500"/>
 </p>
